@@ -1,4 +1,3 @@
 <?php
-//include_once("index.html");
-echo 'holamundo';
+include_once("Index.html");
 ?>
